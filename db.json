@@ -32,50 +32,244 @@
     "monuments": [
         {
             "id": 1,
-            "code_postal": "97400",
+            "code_postal": 97400,
             "ville": "Saint-Denis",
-
             "lieux_historique": [
                 {
-                    "id": 1,
-                    "nom": "Chemin dit des Anglais",
-                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
-                    "latitude": -20.9022,
-                    "logitude": 55.3754,
-                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                    "historique": "Architecture créole. Maison urbaine de la fin du 18e siècle, qui abritait les magasins au rez-de-chaussée et les appartements à l'étage. Façade sur cour fortement modifiée dans les années 1930.",
+                    "commune": "Saint-Denis",
+                    "adresse": "Jean-Chatel (rue) 18",
+                    "appellation_courante": "Maison",
+                    "coordonnees_finales": [
+                        -20.8761484177,
+                        55.4490683184
+                    ]
                 },
                 {
-                    "id": 2,
-                    "nom": "Chemin dit des Anglais",
-                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
-                    "latitude": -20.9022,
-                    "logitude": 55.3754,
-                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                    "historique": "Un monument commémoratif, érigé grâce à une souscription lancée en 1918, est érigé au croisement des rues. Une grande colonne en granit surmontée d'un ange de marbre brandissant une couronne de lauriers, est posé sur un piédestal chanfreiné aux contreforts à volutes, ceinturé d'un emmarchement avec obus et palmes de bronze. Une urne, scellée dans le monument en 1941, renferme une parcelle de \"terre française\". Le monument est inauguré en 1923.",
+                    "appellation_courante": "Monument aux morts de la Grande Guerre",
+                    "coordonnees_finales": [
+                        -20.8784851404,
+                        55.4484862451
+                    ]
+                },
+                {
+                    "historique": "En 1810, les troupes anglaises débarquent à la Grande Chaloupe et gagnent Saint-Denis. La plaine de la Redoute est le champ de bataille d'un unique combat entre cipayes et troupes créoles. Deux obélisques, l'un érigé par les Anglais en 1810, l'autre par les Français en 1857, honorent la mémoire des soldats morts dans les deux camps. Celui des Anglais se dressait dans la plaine de la Redoute, mais a été déplacé vers 1963 sur son site actuel. Celui de 1857 est situé au sommet d'une colline, sur une esplanade qui fut autrefois le site d'une batterie de défense. L'architecture de ces deux monuments se réfère à ceux de l'Antiquité.",
+                    "appellation_courante": "Les mausolées anglais et français, situés au lieudit La Redoute",
+                    "coordonnees_finales": [
+                        -20.8816487095,
+                        55.4442291826
+                    ]
+                },
+                {
+                    "historique": "Edifice bâti en 1846 sur les plans de l'ingénieur Grenard pour la commune de Saint-Denis qui ne possédait pas d'hôtel de ville. Inauguration en 1860.",
+                    "appellation_courante": "Hôtel de ville",
+                    "coordonnees": "-20.8791605576, 55.4482708328",
+                    "coordonnees_finales": [
+                        -20.8791605576,
+                        55.4482708328
+                    ]
+                },
+                {
+                    "historique": "Edifiée vers 1840, cette petite case créole offre une architecture classique avec son toit à quatre pans recouvert en zinc et percé de six lucarnes ajoutées dans les années 1980. Elle a été restaurée par ses propriétaires pendant plus de trente ans. Si son aspect originel a disparu, cette petite demeure urbaine conserve, cependant, la physionomie des cases créoles existantes encore en milieu urbain.",
+                    "appellation_courante": "Maison Boyer-Vidal",
+                    "adresse": "72 rue Roland-Garros",
+                    "coordonnees_finales": [
+                        -20.8820484749,
+                        55.4546722227
+                    ]
+                },
+                {
+                    "historique": "Un premier groupe de constructions abrite l'arsenal et la direction de l'artillerie de marine dès la fin du 18e siècle. Les projets de reconstruction de l'artillerie datent de 1835-1840. Tessier puis Sonnini, du Génie militaire, proposent l'aménagement de la partie orientale du quadrilatère en prévoyant un logement de fonction pour le directeur de l'arsenal. En 1839, Sonnini donne plus d'ampleur au projet en multipliant les constructions autour de deux grandes cours. En 1841, un nouveau projet est approuvé, comprenant le grand bâtiment bordant la cour intérieure au nord, avec galeries superposées, à arcades au rez-de-chaussée, rythmées par des piliers au premier étage soutenant une architrave. La maison du directeur et les annexes du parc d'artillerie conna\u00eetront d'autres modifications ultérieures. Les travaux sont achevés en 1849. Dans la seconde moitié du 19e siècle, plusieurs campagnes de travaux sont réalisées sans pour autant modifier profondément la première organisation spatiale. Les locaux sont désaffectés lors du départ des troupes coloniales pour Madagascar, puis affectés à d'autres services.",
+                    "adresse": "Jean-Chatel (rue) 1",
+                    "appellation_courante": "Ancienne caserne d'artillerie abritant aujourd'hui Radio France Outremer (RFO)",
+                    "coordonnees_finales": [
+                        -20.873174528,
+                        55.4486761173
+                    ]
+                },
+                {
+                    "historique": "En 1810, les troupes anglaises débarquent à la Grande Chaloupe et gagnent Saint-Denis. La plaine de la Redoute est le champ de bataille d'un unique combat entre cipayes et troupes créoles. Deux obélisques, l'un érigé par les Anglais en 1810, l'autre par les Français en 1857, honorent la mémoire des soldats morts dans les deux camps. Celui des Anglais se dressait dans la plaine de la Redoute, mais a été déplacé vers 1963 sur son site actuel. Celui de 1857 est situé au sommet d'une colline, sur une esplanade qui fut autrefois le site d'une batterie de défense. L'architecture de ces deux monuments se réfère à ceux de l'Antiquité.",
+                    "appellation_courante": "Les mausolées anglais et français, situés au lieudit La Redoute",
+                    "coordonnees_finales": [
+                        -20.8816487095,
+                        55.4442291826
+                    ]
+                },
+                {
+                    "historique": "Edifice bâti en 1846 sur les plans de l'ingénieur Grenard pour la commune de Saint-Denis qui ne possédait pas d'hôtel de ville. Inauguration en 1860.",
+                    "commune": "Saint-Denis",
+                    "appellation_courante": "Hôtel de ville",
+                    "coordonnees_finales": [
+                        -20.8791605576,
+                        55.4482708328
+                    ]
+                },
+                {
+                    "historique": "Edifiée vers 1840, cette petite case créole offre une architecture classique avec son toit à quatre pans recouvert en zinc et percé de six lucarnes ajoutées dans les années 1980. Elle a été restaurée par ses propriétaires pendant plus de trente ans. Si son aspect originel a disparu, cette petite demeure urbaine conserve, cependant, la physionomie des cases créoles existantes encore en milieu urbain.",
+                    "adresse": "Roland-Garros (rue) 72",
+                    "appellation_courante": "Maison Boyer-Vidal",
+                    "coordonnees_finales": [
+                        -20.8820484749,
+                        55.4546722227
+                    ]
+                },
+                {
+                    "historique": "Un premier groupe de constructions abrite l'arsenal et la direction de l'artillerie de marine dès la fin du 18e siècle. Les projets de reconstruction de l'artillerie datent de 1835-1840. Tessier puis Sonnini, du Génie militaire, proposent l'aménagement de la partie orientale du quadrilatère en prévoyant un logement de fonction pour le directeur de l'arsenal. En 1839, Sonnini donne plus d'ampleur au projet en multipliant les constructions autour de deux grandes cours. En 1841, un nouveau projet est approuvé, comprenant le grand bâtiment bordant la cour intérieure au nord, avec galeries superposées, à arcades au rez-de-chaussée, rythmées par des piliers au premier étage soutenant une architrave. La maison du directeur et les annexes du parc d'artillerie conna\u00eetront d'autres modifications ultérieures. Les travaux sont achevés en 1849. Dans la seconde moitié du 19e siècle, plusieurs campagnes de travaux sont réalisées sans pour autant modifier profondément la première organisation spatiale. Les locaux sont désaffectés lors du départ des troupes coloniales pour Madagascar, puis affectés à d'autres services.",
+                    "adresse": "Juliette-Dodu (rue) 2 ; Nice (rue de) 15",
+                    "appellation_courante": "Ancien parc d'artillerie et maison dite du commandant de gendarmerie",
+                    "coordonnees_finales": [
+                        -20.8730211777,
+                        55.4490540523
+                    ]
+                },
+                {
+                    "historique": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé.",
+                    "appellation_courante": "Chemin dit des Anglais",
+                    "coordonnees_finales": [
+                        -20.8989134881,
+                        55.3858449387
+                    ]
+                },
+                {
+                    "historique": "Elément original de l'ensemble urbain qu'est la propriété Deramond.",
+                    "adresse": "Paris (rue de) 17 ; Maréchal-Leclerc (rue du)",
+                    "appellation_courante": "Pavillon Badat",
+                    "coordonnees_finales": [
+                        -20.880208618,
+                        55.4492596632
+                    ]
+                },
+                {
+                    "historique": "En 1741, l'ingénieur du roi Antoine-Marie Desforges-Boucher dessine un magasin à poudre, édifié en 1751. Entouré d'un haut mur d'enceinte en moellons liés à la chaux, il se dresse sur une colline, à contre pente des tirs pouvant parvenir de la mer. A l'extérieur, les murs présentent un appareil constitué de basalte taillé. Six contreforts épaulent les façades Est et ouest. Le pignon est souligné d'une corniche, décor exceptionnel sur un édifice du 18e siècle à la Réunion. De même pour le blason aux armes du roi de France qui surmonte la porte d'entrée.",
+                    "appellation_courante": "Ancienne poudrière transformée en chapelle",
+                    "coordonnees_finales": [
+                        -20.907784,
+                        55.444047
+                    ]
+                },
+                {
+                    "historique": "Témoin de l'architecture néo-gothique importée à la Réunion. Construite de 1893 à 1897, elle conserve une décoration intérieure remarquable (peintures exécutées par le frère Fulbert entre 1904 et 1905 et vitraux de l'atelier Bessac de Grenoble en 1928-1929). Important mobilier liturgique réalisé par des menuisiers réunionnais entre 1899 et 1901.",
+                    "commune": "Saint-Denis",
+                    "appellation_courante": "Eglise Notre-Dame de la Délivrance",
+                    "coordonnees_finales": [
+                        -20.8798201025,
+                        55.443336929
+                    ]
                 }
             ]
         },
-
         {
-            "id": 1,
-            "code_postal": "97440",
+            "id": 2,
+            "code_postal": 97440,
             "ville": "Saint-André",
-
             "lieux_historique": [
                 {
-                    "id": 1,
-                    "nom": "Chemin dit des Anglais",
-                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
-                    "latitude": -20.9022,
-                    "logitude": 55.3754,
-                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                    "historique": "Les premiers temples, chapelles ou koylous sont en général décrits comme étant des bâtiments en paille ou en bois et paille. Les mentions de tôle ondulée sont inexistantes avant la seconde moitié du 19ème siècle. Il convient de distinguer trois types de temples : les grands temples urbains (fin 19ème siècle) ; les temples de plantation ; les temples personnels, familiaux. Le temple Mardévirin fut realisé en 1957. Cette chapelle comprend un édifice, quatre édicules, un mât de Nargoulan et un bâtiment annexe. L'édifice est en maçonnerie de béton. Couvert en terrasse, il est surmonté de deux vimanams. Le porche, soutenu par trois piliers en béton, est précédé d'une charpente métallique. Trois édicules sont situés sous le portique. Construits en maçonnerie de béton, ils sont couverts en terrasse et amortis de frontons polylobés. Le quatrième édicule est situé devant le portique. Quatre piliers couverts en terrasse sont surmontés par un vimanam.",
+                    "adresse": "Petit-Bazar (rue du)",
+                    "appellation_courante": "Temple Mardévirin",
+                    "coordonnees_finales": [
+                        -20.9432051322,
+                        55.6481324793
+                    ]
                 },
                 {
-                    "id": 2,
-                    "nom": "Chemin dit des Anglais",
-                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
-                    "latitude": -20.9022,
-                    "logitude": 55.3754,
-                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                    "historique": "Situé dans le vieux centre ville, ce bâtiment est construit pendant la Seconde guerre mondiale pour servir de grande salle d'\u009cuvres ou établissements religieux, destiné aux activités annexes de l'église. La construction commence en 1943 mais est interrompue faute de moyens. Il s'agit d'un vestige de l'architecture religieuse conçue par les prêtres et réalisée par les ouvriers locaux. Les murs sont en pierre de taille. La première toiture était en bardeaux mais, arrachée par le cyclone de 1948, elle fut remplacée par une toiture en tôle.",
+                    "adresse": "Père-Buschère (rue du) 16",
+                    "appellation_courante": "Immeuble dit  salle Jeanne d'Arc ",
+                    "coordonnees_finales": [
+                        -20.9603039262,
+                        55.6489294135
+                    ]
+                },
+                {
+                    "historique": "Le site de la propriété Camalon conserve les vestiges archéologiques d'une ancienne exploitation agricole et d'une usine pour le traitement de l'aloès destiné à la fabrication des cordes pour la navigation, probablement construites au 19e siècle. La maison d'habitation a été reconstruite sur les fondations d'une maison plus ancienne détruite par un cyclone. Les vestiges de l'usine sont constitués d'un grand réservoir d'eau, de bassins de rouissage et de magasins.",
+                    "adresse": "Champ-Borne (rue du) 160",
+                    "appellation_courante": "Propriété Camalon",
+                    "coordonnees_finales": [
+                        -20.9398277386,
+                        55.6752523228
+                    ]
+                },
+                {
+                    "historique": "Antérieure à 1835, la propriété Appavoupoulle a été vouée à la plantation de la canne à sucre, à l'exploitation du bois de filaos et à la culture de la vanille, activités qu'accompagnaient des installations techniques à vocation tantôt industrielle, tantôt agricole. La vanillerie, bâtiment ancien qui a subi des transformations en 1962 après les dégâts du cyclone Jenny, comprend une partie basse réservée à la préparation et une partie haute affectée au séchage et à l'atelier d'empaquetage. Les écuries sont en maçonnerie de galets, l'intérieur de chaque stalle est pavé et dispose d'une mangeoire en pierre de taille. La minoterie, construite en 1941, servait à moudre le ma\u00efs et le manioc ; elle est bâtie en maçonnerie et comportait deux salles, l'une pour le moulin, l'autre pour la génératrice électrique. La villa est construite en pan de bois sur un soubassement de basalte.",
+                    "adresse": "Bourbon (avenue de) 111",
+                    "appellation_courante": "Propriété Appavoupoulle",
+                    "coordonnees_finales": [
+                        -20.9622296972,
+                        55.6502399998
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "code_postal": 97441,
+            "ville": "Sainte-Suzanne",
+            "lieux_historique": [
+                {
+                    "historique": "Le phare est construit pointe de Bel Air à Sainte-Suzanne, sur un promontoire naturel situé face aux récifs de la Marianne et du Cousin, seuls écueils notables de la côte nord de l'\u00eele. L'ouvrage est constitué de la tour du phare flanquant, au nord, le bâtiment de service de plan quadrangulaire. Une cuisine est construite en bordure du terrain, à l'ouest. Le terrain est fermé par un muret de clôture, à l'est et à l'ouest. L'ensemble des constructions est en maçonnerie de moellons enduits ; soubassement, cha\u00eenes d'angle, astragale et chemin de ronde sont en pierre de taille. Le bâtiment de service est couvert en béton armé ; la cuisine en tôle ondulée ; la lanterne du phare en tôles plates. La tour du phare est construite en forme de colonne tronconique, d'ordre toscan, avec astragale et tailloir dodécagonal servant de chemin de ronde. L'accès à la lanterne se fait par un escalier hélico\u00efdal autrefois en bois, aujourd'hui métallique. La lanterne actuellement en place est une ancienne lanterne à huile et à pétrole qui a été électrifiée. Le bâtiment de service a été agrandi par l'ajout de deux pièces à l'est. Dans la cour, oû9 d'anciens bâtiments annexes accolés au bâtiment de service ont été démolis, s'élève l'ancienne cuisine. Le phare de Bel Air est le seul ouvrage de ce type subsistant à La Réunion.",
+                    "adresse": "Phare (rue du) 5002",
+                    "coordonnees_finales": [
+                        -20.9015143878,
+                        55.6020075198
+                    ]
+                },
+                {
+                    "historique": "Construit en 1754 pour franchir le seul point non carrossable du chemin de Saint-Denis à Saint-Beno\u00eet, ce pont est le plus ancien ouvrage d'art de l'\u00eele. Il a été doublé et surélevé pour la construction du chemin de fer en 1878, avant d'être réutilisé pour la RN 2. C'est un pont en maçonnerie de moellons de pierre de taille, à une arche et doublé par un ouvrage en terre sur buses en béton.",
+                    "appellation_courante": "Pont de la Ravine des Chèvres",
+                    "coordonnees_finales": [
+                        -20.8955720529,
+                        55.5758514869
+                    ]
+                },
+                {
+                    "commune": "Sainte-Suzanne",
+                    "appellation_courante": "Cheminée dite de Quartier Français",
+                    "coordonnees_finales": [
+                        -20.9322992745,
+                        55.6397229859
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "code_postal": 97410,
+            "ville": "Saint-Benoît",
+            "lieux_historique": [
+                {
+                    "historique": "Cette chapelle a été construite en 1947. Le portique en béton doté d'un vimanam circulaire date de 1949. Accessible par une allée en béton et une allée carrelée, elle se compose de plusieurs édifices et édicules polychromes. Un premier édicule, en maçonnerie de béton, couvert en terrasse, est décoré de peintures végétales et figurées polychromes. Baies, porte en métal en façade et fenêtres en bois sont cintrées. A droite de l'édifice, un portique en béton est amorti d'un vimanam circulaire. Encore à droite, un édifice en maçonnerie de béton est couvert à un pan en tôle ondulée. On trouve ensuite une fontaine en béton carrelée, un mât de Nargoulan en béton ainsi qu'un kodi en béton sur socle. Entre les deux, un édicule en maçonnerie de béton comporte quatre kalasams.",
+                    "appellation_courante": "Temple de Morange",
+                    "coordonnees_finales": [
+                        -21.0998107725,
+                        55.7333424458
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "code_postal": 97420,
+            "ville": "Le Port",
+            "lieux_historique": [
+                {
+                    "historique": "Cette villa fait partie des cinq maisons dites \u00ab\u00a0des ingénieurs\u00a0\u00bb, construites à la fin du 19e siècle dans cette cité émergente de Le Port. Ces villas s\u0092apparentent à l\u0092architecture coloniale née dans les anciennes dépendances anglaises ou françaises. Conçues en marge du style néo-classique, elles s\u0092organisent selon le même plan type\u00a0: un étage, un corps central en maçonnerie entouré de larges galeries de circulation périptères. Une grande toiture à quatre pans complètent la structure.",
+                    "commune": "Port (Le)",
+                    "adresse": "Amiral-Bosse (rue) 592, 608",
+                    "coordonnees_finales": [
+                        -20.9367241755,
+                        55.2886232736
+                    ]
+                },
+                {
+                    "historique": "Cette villa fait partie des cinq maisons dites \u00ab\u00a0des ingénieurs\u00a0\u00bb, construites à la fin du 19e siècle dans cette cité émergente de Le Port. Ces villas s\u0092apparentent à l\u0092architecture coloniale née dans les anciennes dépendances anglaises ou françaises. Conçues en marge du style néo-classique, elles s\u0092organisent selon le même plan type\u00a0: un étage, un corps central en maçonnerie entouré de larges galeries de circulation périptères. Une grande toiture à quatre pans complètent la structure.",
+                    "adresse": "Amiral-Bosse (rue) 638",
+                    "appellation_courante": "Maison dite des Ingénieurs",
+                    "coordonnees_finales": [
+                        -20.9370271162,
+                        55.2885727853
+                    ]
                 }
             ]
         }
