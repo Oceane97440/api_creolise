@@ -173,54 +173,10 @@
                 }
             ]
         },
+       
+    
         {
             "id": 3,
-            "code_postal": 97441,
-            "ville": "Sainte-Suzanne",
-            "lieux_historique": [
-                {
-                    "historique": "Le phare est construit pointe de Bel Air à Sainte-Suzanne, sur un promontoire naturel situé face aux récifs de la Marianne et du Cousin, seuls écueils notables de la côte nord de l'\u00eele. L'ouvrage est constitué de la tour du phare flanquant, au nord, le bâtiment de service de plan quadrangulaire. Une cuisine est construite en bordure du terrain, à l'ouest. Le terrain est fermé par un muret de clôture, à l'est et à l'ouest. L'ensemble des constructions est en maçonnerie de moellons enduits ; soubassement, cha\u00eenes d'angle, astragale et chemin de ronde sont en pierre de taille. Le bâtiment de service est couvert en béton armé ; la cuisine en tôle ondulée ; la lanterne du phare en tôles plates. La tour du phare est construite en forme de colonne tronconique, d'ordre toscan, avec astragale et tailloir dodécagonal servant de chemin de ronde. L'accès à la lanterne se fait par un escalier hélico\u00efdal autrefois en bois, aujourd'hui métallique. La lanterne actuellement en place est une ancienne lanterne à huile et à pétrole qui a été électrifiée. Le bâtiment de service a été agrandi par l'ajout de deux pièces à l'est. Dans la cour, oû9 d'anciens bâtiments annexes accolés au bâtiment de service ont été démolis, s'élève l'ancienne cuisine. Le phare de Bel Air est le seul ouvrage de ce type subsistant à La Réunion.",
-                    "adresse": "Phare (rue du) 5002",
-                    "coordonnees_finales": [
-                        -20.9015143878,
-                        55.6020075198
-                    ]
-                },
-                {
-                    "historique": "Construit en 1754 pour franchir le seul point non carrossable du chemin de Saint-Denis à Saint-Beno\u00eet, ce pont est le plus ancien ouvrage d'art de l'\u00eele. Il a été doublé et surélevé pour la construction du chemin de fer en 1878, avant d'être réutilisé pour la RN 2. C'est un pont en maçonnerie de moellons de pierre de taille, à une arche et doublé par un ouvrage en terre sur buses en béton.",
-                    "appellation_courante": "Pont de la Ravine des Chèvres",
-                    "coordonnees_finales": [
-                        -20.8955720529,
-                        55.5758514869
-                    ]
-                },
-                {
-                    "commune": "Sainte-Suzanne",
-                    "appellation_courante": "Cheminée dite de Quartier Français",
-                    "coordonnees_finales": [
-                        -20.9322992745,
-                        55.6397229859
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "code_postal": 97410,
-            "ville": "Saint-Benoît",
-            "lieux_historique": [
-                {
-                    "historique": "Cette chapelle a été construite en 1947. Le portique en béton doté d'un vimanam circulaire date de 1949. Accessible par une allée en béton et une allée carrelée, elle se compose de plusieurs édifices et édicules polychromes. Un premier édicule, en maçonnerie de béton, couvert en terrasse, est décoré de peintures végétales et figurées polychromes. Baies, porte en métal en façade et fenêtres en bois sont cintrées. A droite de l'édifice, un portique en béton est amorti d'un vimanam circulaire. Encore à droite, un édifice en maçonnerie de béton est couvert à un pan en tôle ondulée. On trouve ensuite une fontaine en béton carrelée, un mât de Nargoulan en béton ainsi qu'un kodi en béton sur socle. Entre les deux, un édicule en maçonnerie de béton comporte quatre kalasams.",
-                    "appellation_courante": "Temple de Morange",
-                    "coordonnees_finales": [
-                        -21.0998107725,
-                        55.7333424458
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 5,
             "code_postal": 97420,
             "ville": "Le Port",
             "lieux_historique": [
