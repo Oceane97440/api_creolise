@@ -43,6 +43,39 @@
                     "latitude": -20.9022,
                     "logitude": 55.3754,
                     "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                },
+                {
+                    "id": 2,
+                    "nom": "Chemin dit des Anglais",
+                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
+                    "latitude": -20.9022,
+                    "logitude": 55.3754,
+                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "code_postal": "97440",
+            "ville": "Saint-André",
+
+            "lieux_historique": [
+                {
+                    "id": 1,
+                    "nom": "Chemin dit des Anglais",
+                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
+                    "latitude": -20.9022,
+                    "logitude": 55.3754,
+                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
+                },
+                {
+                    "id": 2,
+                    "nom": "Chemin dit des Anglais",
+                    "adresse": "24 La Grande Chaloupe 97400 Saint-Denis",
+                    "latitude": -20.9022,
+                    "logitude": 55.3754,
+                    "description": "En 1690, la question d'une liaison entre Saint-Denis et La Possession est posée. En 1730, une convention est passée qui s'engage à ouvrir en haut de la falaise une voie pour que hommes et chevaux puissent y passer. Amélioré et pavé quarante ans plus tard, ce chemin sera utilisé par Bernardin -de-Saint-Pierre, puis par les Anglais, le 7 juillet 1810, lors de la prise de l'île. Cette voie de onze kilomètres est abandonnée sous la Restauration au profit d'un nouveau tracé."
                 }
             ]
         }
