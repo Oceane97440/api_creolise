@@ -1,34 +1,5 @@
 {
-    "dico": [
-        {
-            "mot_creole": "rougail",
-            "traduction": "Plat traditionnel créole (attention recette à ne pas revisiter)"
-        },
-        {
-            "mot_creole": "pilon",
-            "traduction": "Mortier (Instrument cylindrique servant à piler.)"
-        },
-        {
-            "mot_creole": "un Malbar",
-            "traduction": "À la Réunion, Indienne non musulman."
-        },
-        {
-            "mot_creole": "mon cabri",
-            "traduction": "chèvre ou bouc"
-        },
-        {
-            "mot_creole": "mon loto",
-            "traduction": "voiture"
-        },
-        {
-            "mot_creole": "mon tantine",
-            "traduction": "Expression qui désigne les filles de la Réunion"
-        },
-        {
-            "mot_creole": "la case",
-            "traduction": "Maison"
-        }
-    ],
+   
     "monuments": [
         {
             "id": 1,
