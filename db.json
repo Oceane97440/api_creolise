@@ -1,6 +1,4 @@
 {
-   
-    
     "monuments": [
         {
             "id": 1,
@@ -241,6 +239,91 @@
                     "coordonnees_finales": [
                         -20.9370271162,
                         55.2885727853
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "code_postal": 97438,
+            "ville": "Sainte-Marie",
+            "lieux_historique": [
+                {
+                    "historique": "Erigée en 1748, l'église est la quatrième plus ancienne de l'\u00eele. La première chapelle fut bâtie par le forban Dominique Ferrère, épargné par un naufrage en 1667. En 1735, une première église en bois est bâtie puis refaite en pierre. En 1749, la décision est prise de construire une église. La maçonnerie est achevée en 1754.",
+                    "appellation_courante": "Eglise paroissiale",
+                    "coordonnees_finales": [
+                        -20.8964396627,
+                        55.5545210766
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "code_postal": 97421,
+            "ville": "Sainte-Marie",
+            "lieux_historique": [
+                {
+                    "historique": "Monument aux morts de la guerre 14-18. C'est une sculpture de Carlo Sarrabezolles en bronze destinée à être placée devant l'église. Le modèle en plâtre est réalisé en 1921. La sculpture est exécutée en 1930. Cette statue représentant une guerrière à la poitrine dénudée est assimilée à Jeanne d'Arc par les paroissiens. Le curé dynamite l'oeuvre en 1941, et la statue en bronze est reléguée dans un hangar jusqu'en 1946. En 1948, le nouveau maire décide son remontage devant une mairie annexe. Le modèle de pierre, datant de 1922, est offert par l'artiste au musée du Luxembourg. Le plâtre d'origine est entreposé à l'historial de la Grande Guerre à Péronne.",
+                    "appellation_courante": "Monument aux morts intitulé l'Ame de la France, situé à Hell-Bourg",
+                    "coordonnees_finales": [
+                        -21.064631262,
+                        55.5212157813
+                    ]
+                },
+                {
+                    "historique": "Construction typiquement créole.",
+                    "appellation_courante": "Villa Lucilly, située à Hell-Bourg",
+                    "coordonnees_finales": [
+                        -21.0663507025,
+                        55.5182164885
+                    ]
+                },
+                {
+                    "historique": "Domaine destiné à l'usage agricole, construit dans les années 1830, qui évolue peu au cours du 19e siècle. Le fondateur du mouvement politique \"le Parti Ouvrier Paysan\", élu maire en 1937, fut propriétaire de cette maison de 1934 à 1982.",
+                    "appellation_courante": "Domaine de Mare à Citrons",
+                    "coordonnees_finales": [
+                        -21.0311863274,
+                        55.5268553904
+                    ]
+                },
+                {
+                    "historique": "La première église de la commune, une construction en bois sur un soubassement en pierre, date de 1873. En 1901, devenue trop exigu\u00eb, elle est remplacée par une nouvelle église, toujours d'une architecture traditionnelle en bois. Détruite par des cyclones en 1932 et 1935, elle est reconstruite en 1936, avec les matériaux de l'église précédente. Protégée en 1982 comme l'une des dernières églises traditionnelles de l'\u00eele, elle est de nouveau en cours de restauration après le cyclone de février 1994.",
+                    "appellation_courante": "Eglise Saint-Martin",
+                    "coordonnees_finales": [
+                        -21.0303027857,
+                        55.4772688075
+                    ]
+                },
+                {
+                    "historique": "Monument aux morts de la guerre 14-18. C'est une sculpture de Carlo Sarrabezolles en bronze destinée à être placée devant l'église. Le modèle en plâtre est réalisé en 1921. La sculpture est exécutée en 1930. Cette statue représentant une guerrière à la poitrine dénudée est assimilée à Jeanne d'Arc par les paroissiens. Le curé dynamite l'oeuvre en 1941, et la statue en bronze est reléguée dans un hangar jusqu'en 1946. En 1948, le nouveau maire décide son remontage devant une mairie annexe. Le modèle de pierre, datant de 1922, est offert par l'artiste au musée du Luxembourg. Le plâtre d'origine est entreposé à l'historial de la Grande Guerre à Péronne.",
+                    "appellation_courante": "Monument aux morts intitulé l'Ame de la France, situé à Hell-Bourg",
+                    "coordonnees_finales": [
+                        -21.064631262,
+                        55.5212157813
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "code_postal": 97416,
+            "ville": "Saint-Pierre",
+            "lieux_historique": [
+                {
+                    "historique": "L\u0092usine de Pierrefonds a été avec l\u0092usine des Casernes et celle de Grands-Bois une des plus importantes usines de Saint-Pierre. Créée avant 1837 par Lebidan, l\u0092usine de Pierrefonds fonctionne alors grâce à une machine à vapeur complétée par une roue hydraulique prenant son eau dans le canal Saint-Etienne. Les bâtiments actuels existaient en 1871, ils ont servi jusqu\u0092à l\u0092arrêt de l\u0092usine en 1969. Deux bâtiments principaux en maçonnerie sont implantés sur le site : l\u0092usine proprement dite, grand bâtiment en T, qui renferme les moulins, machines à vapeur, roue hydraulique, ainsi que l\u0092ensemble des cuves, évaporateurs, malaxeurs et centrifugeuses nécessaires à la production du sucre ; le second bâtiment, au nord-est, est constitué de trois corps de bâtiments s\u0092articulant autour d\u0092une cour carrée et abritait une distillerie. Derrière l\u0092usine sont installés les écuries et les parcs à boeufs. Au sud-ouest se trouvent les bâtiments administratifs et les magasins. Le camp des engagés entoure le site vers l\u0092est et le sud. L\u0092ensemble des bâtiments est bien construit, en maçonnerie, sobrement décoré. Il s\u0092articule autour de la plate-forme de réception de la canne, près de laquelle se trouve un bassin circulaire (abreuvoir) , construit dans l\u0092axe de l\u0092usine.",
+                    "appellation_courante": "Ancienne usine de Pierrefonds",
+                    "coordonnees_finales": [
+                        -21.3021797288,
+                        55.4283643114
+                    ]
+                },
+                {
+                    "historique": "Paroisse fondée en 1732. La décision de construire l'église et la cure date de 1751, l'achèvement des travaux a lieu vers 1765. L'église a été plusieurs fois modifiée : à l'intérieur, ajout d'une sacristie, des bas-côtés, construction d'une tribune... à l'extérieur, érection d'un portique (en 1835) , reprise des enduits...",
+                    "appellation_courante": "Eglise paroissiale",                
+                    "coordonnees_finales": [
+                        -21.33809387,
+                        55.4802299715
                     ]
                 }
             ]
