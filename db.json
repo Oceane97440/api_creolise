@@ -511,7 +511,7 @@
         },
         {
             "id":7,
-            "name":"Hotel Boucan Canot",
+            "name":"Hotel \n Boucan Canot",
             "price":180,
             "description":"Les pieds dans l’eau, l’Hôtel Restaurant Boucan Canot vous offre une vue panoramique sur l’une des plus belles plages de l’île de La Réunion. Union d’un site naturel préservé et d’une architecture typiquement créole",
             "ville":"Saint-Paul",
@@ -539,7 +539,7 @@
         },
         {
             "id":8,
-            "name":"Hôtel Bellepierre 4 *",
+            "name":"Bellepierre \n 4 *",
             "price":300,
             "description":"Profitez d’une vue panoramique depuis le quartier apaisant de Bellepierre (Saint-Denis), pour votre séjour de tourisme ou d’affaire à l’île de La Réunion.",
             "ville":"Saint-Paul",
@@ -567,7 +567,7 @@
         }, 
         {
             "id":9,
-            "name":"La Mafia du Gout",
+            "name":"La Mafia \n du Gout",
             "price":10,
             "description":"Fast-Food",
             "ville":"Saint-Denis",
@@ -586,7 +586,7 @@
         },
         {
             "id":10,
-            "name":"Le Bistrot de Saint Paul",
+            "name":"Le Bistrot \n de Saint Paul",
             "price":29,
             "description":"Bistrot",
             "ville":"Saint-Paul",
@@ -605,7 +605,7 @@
         },
         {
             "id":11,
-            "name":"L'Atelier de Ben",
+            "name":"L'Atelier \n de Ben",
             "price":30,
             "description":"Repas de lux et repas à emporter",
             "ville":"Saint-Paul",
@@ -650,7 +650,7 @@
 
         {
             "id":13,
-            "name":"Parc de la Trinité",
+            "name":"Parc de \n la Trinité",
             "price":"",
             "description":"Jardin public ",
             "ville":"Saint-Denis",
