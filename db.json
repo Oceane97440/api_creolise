@@ -346,22 +346,22 @@
             {
               "id":1,
               "point_fort":"Restaurant",
-              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              "icon":"3d-fluency-spoon-and-knife.png"
             },
             {
               "id":2,
               "point_fort":"Salle de sport",
-              "icon":"../../public/img/3d-fluency-football-player.png"
+              "icon":"3d-fluency-football-player.png"
             },
             {
               "id":3,
               "point_fort":"Spa",
-              "icon":"../../public/img/3d-fluency-pink-flower.png"
+              "icon":"3d-fluency-pink-flower.png"
             }, 
             {
               "id":4,
               "point_fort":"Place de parking",
-              "icon":"../../public/img/3d-fluency-blue-car.png"
+              "icon":"3d-fluency-blue-car.png"
             }
           ]
     
@@ -380,17 +380,17 @@
             {
               "id":1,
               "point_fort":"Restaurant",
-              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              "icon":"3d-fluency-spoon-and-knife.png"
             },
             {
               "id":2,
               "point_fort":"Place de parking",
-              "icon":"../../public/img/3d-fluency-blue-car.png"
+              "icon":"3d-fluency-blue-car.png"
             },
             {
               "id":3,
               "point_fort":"Animation music",
-              "icon":"../../public/img/3d-fluency-music-note.png"
+              "icon":"3d-fluency-music-note.png"
             }
           ]
     
@@ -410,27 +410,27 @@
             {
               "id":1,
               "point_fort":"Restaurant",
-              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              "icon":"3d-fluency-spoon-and-knife.png"
             },
             {
               "id":2,
               "point_fort":"Place de parking",
-              "icon":"../../public/img/3d-fluency-blue-car.png"
+              "icon":"3d-fluency-blue-car.png"
             },
             {
               "id":3,
               "point_fort":"Animation music",
-              "icon":"../../public/img/3d-fluency-music-note.png"
+              "icon":"3d-fluency-music-note.png"
             },
             {
               "id":4,
               "point_fort":"Salle de sport",
-              "icon":"../../public/img/3d-fluency-football-player.png"
+              "icon":"3d-fluency-football-player.png"
             },
             {
               "id":"5",
               "point_fort":"Spa",
-              "icon":"../../public/img/3d-fluency-pink-flower.png"
+              "icon":"3d-fluency-pink-flower.png"
             }
           ]
     
@@ -449,17 +449,17 @@
             {
               "id":1,
               "point_fort":"Restaurant",
-              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              "icon":"3d-fluency-spoon-and-knife.png"
             },
             {
               "id":2,
               "point_fort":"Place de parking",
-              "icon":"../../public/img/3d-fluency-blue-car.png"
+              "icon":"3d-fluency-blue-car.png"
             },
             {
               "id":3,
               "point_fort":"Animation music",
-              "icon":"../../public/img/3d-fluency-music-note.png"
+              "icon":"3d-fluency-music-note.png"
             }
           
           ]
@@ -480,7 +480,7 @@
             {
               "id":1,
               "point_fort":"Place de parking",
-              "icon":"../../public/img/3d-fluency-blue-car.png"
+              "icon":"3d-fluency-blue-car.png"
             }
           ]
     
@@ -499,13 +499,13 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               },
              
               {
                 "id":2,
                 "point_fort":"Place de parking",
-                "icon":"../../public/img/3d-fluency-blue-car.png"
+                "icon":"3d-fluency-blue-car.png"
               }
             ]
         },
@@ -523,17 +523,17 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               },
               {
                 "id":2,
                 "point_fort":"Spa",
-                "icon":"../../public/img/3d-fluency-pink-flower.png"
+                "icon":"3d-fluency-pink-flower.png"
               }, 
               {
                 "id":3,
                 "point_fort":"Place de parking",
-                "icon":"../../public/img/3d-fluency-blue-car.png"
+                "icon":"3d-fluency-blue-car.png"
               }
             ]
         },
@@ -551,17 +551,17 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               },
               {
                 "id":2,
                 "point_fort":"Spa",
-                "icon":"../../public/img/3d-fluency-pink-flower.png"
+                "icon":"3d-fluency-pink-flower.png"
               }, 
               {
                 "id":3,
                 "point_fort":"Place de parking",
-                "icon":"../../public/img/3d-fluency-blue-car.png"
+                "icon":"3d-fluency-blue-car.png"
               }
             ]
         }, 
@@ -579,7 +579,7 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               }
          
             ]
@@ -598,7 +598,7 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               }
          
             ]
@@ -617,7 +617,7 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               }
          
             ]
@@ -637,12 +637,12 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               },
               {
                 "id":2,
                 "point_fort":"Place de parking",
-                "icon":"../../public/img/3d-fluency-blue-car.png"
+                "icon":"3d-fluency-blue-car.png"
               }
          
             ]
@@ -662,12 +662,12 @@
               {
                 "id":1,
                 "point_fort":"Restaurant",
-                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+                "icon":"3d-fluency-spoon-and-knife.png"
               },
               {
                 "id":2,
                 "point_fort":"Place de parking",
-                "icon":"../../public/img/3d-fluency-blue-car.png"
+                "icon":"3d-fluency-blue-car.png"
               }
          
             ]
