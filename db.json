@@ -328,5 +328,350 @@
                 }
             ]
         }
-    ]
+    ],
+
+    "items":[
+
+        {
+          "id":1,
+          "name":"Hotêl Dina",
+          "price":160,
+          "description":"Plongez dans un nouveau lieu de vie, hôtel de quartier surplombant l’océan Indien en plein cœur de la capitale de Saint Denis",
+          "ville":"Saint-Denis",
+          "categorie":"Hotels",
+          "latitude": "-20.876211767943236",
+          "longitude": "55.45515146403774",
+          "photos":"https://cf.bstatic.com/xdata/images/hotel/max1024x768/60666169.jpg?k=649bef690224bdbc0f51b75208b6b328ddc8a3e22d8085cea59d424499c97a53&o=&hp=1",
+          "avantage":[
+            {
+              "id":1,
+              "point_fort":"Restaurant",
+              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+            },
+            {
+              "id":2,
+              "point_fort":"Salle de sport",
+              "icon":"../../public/img/3d-fluency-football-player.png"
+            },
+            {
+              "id":3,
+              "point_fort":"Spa",
+              "icon":"../../public/img/3d-fluency-pink-flower.png"
+            }, 
+            {
+              "id":4,
+              "point_fort":"Place de parking",
+              "icon":"../../public/img/3d-fluency-blue-car.png"
+            }
+          ]
+    
+        },
+        {
+          "id":2,
+          "name":"Relais \n Hermitage",
+          "price":"120",
+          "description":"Un lieu d’exception, où l’eau cristalline du lagon se mêle au vert du jardin tropical pour une immersion dans le charme créole, et une invitation au farniente",
+          "ville":"Saint-Gilles",
+          "categorie":"Hotels",
+          "latitude": "-21.076864250430617",
+          "longitude": "55.22221225481496",
+          "photos":"https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/32/05/320511_v6.jpeg",
+          "avantage":[
+            {
+              "id":1,
+              "point_fort":"Restaurant",
+              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+            },
+            {
+              "id":2,
+              "point_fort":"Place de parking",
+              "icon":"../../public/img/3d-fluency-blue-car.png"
+            },
+            {
+              "id":3,
+              "point_fort":"Animation music",
+              "icon":"../../public/img/3d-fluency-music-note.png"
+            }
+          ]
+    
+        },
+    
+        {
+          "id":3,
+          "name":"Saint-Alexie",
+          "price":"320",
+          "description":"Superbement situé face à la très belle plage réunionnaise de Boucan Canot, à Saint-Gilles-les Bains, l’Hôtel Le Saint Alexis est un véritable havre de paix et de sérénité.",
+          "ville":"Saint-Paul",
+          "categorie":"Hotels",
+          "latitude":"-21.030308716889895", 
+          "longitude":"55.22483981083188",
+          "photos":"https://images.citybreak.com/image.aspx?ImageId=4571665",
+          "avantage":[
+            {
+              "id":1,
+              "point_fort":"Restaurant",
+              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+            },
+            {
+              "id":2,
+              "point_fort":"Place de parking",
+              "icon":"../../public/img/3d-fluency-blue-car.png"
+            },
+            {
+              "id":3,
+              "point_fort":"Animation music",
+              "icon":"../../public/img/3d-fluency-music-note.png"
+            },
+            {
+              "id":4,
+              "point_fort":"Salle de sport",
+              "icon":"../../public/img/3d-fluency-football-player.png"
+            },
+            {
+              "id":"5",
+              "point_fort":"Spa",
+              "icon":"../../public/img/3d-fluency-pink-flower.png"
+            }
+          ]
+    
+        },
+        {
+          "id":4,
+          "name":"Saint-Hubert",
+          "price":"20",
+          "description":"Brasserie",
+          "ville":"Saint-Denis",
+          "categorie":"Restaurants",
+          "latitude": "-20.877662583983522",
+          "longitude": "55.451286468272166",
+          "photos":"https://passtime-media.s3.eu-west-3.amazonaws.com/SPs3comf4pP3vUxu6AhnCHNm",
+          "avantage":[
+            {
+              "id":1,
+              "point_fort":"Restaurant",
+              "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+            },
+            {
+              "id":2,
+              "point_fort":"Place de parking",
+              "icon":"../../public/img/3d-fluency-blue-car.png"
+            },
+            {
+              "id":3,
+              "point_fort":"Animation music",
+              "icon":"../../public/img/3d-fluency-music-note.png"
+            }
+          
+          ]
+    
+        },
+        {
+          "id":5,
+          "name":"Forêt \n Providence",
+          "price":"",
+          "description":"Randonner en plein nature au coeur de St-denis",
+          "ville":"Saint-Denis",
+          "categorie":"Nature",
+          "latitude":"-20.897327228838414", 
+          "longitude":"55.45557250032911",
+          "photos":"http://medias.tourism-system.fr/3/5/158493_la_providence-1.jpg",
+          "avantage":[
+           
+            {
+              "id":1,
+              "point_fort":"Place de parking",
+              "icon":"../../public/img/3d-fluency-blue-car.png"
+            }
+          ]
+    
+        },
+        {
+            "id":6,
+            "name":"Latitude 21",
+            "price":140,
+            "description":"Cet établissement est à 12 minutes à pied de la plage. L'établissement Latitude 21 - ex Le Saint Michel est situé à Saint-Gilles-les-Bains, à seulement 6 minutes en voiture de la plage des Roches Noires ",
+            "ville":"Saint-Gilles",
+            "categorie":"Hotels",
+            "latitude":"-21.045000352054416", 
+            "longitude":"55.22881910099661",
+            "photos":"https://www.aleou.fr/images/etablissements/24834/moy/le-saint-michel-saint-gilles-les-bains-piscine-3_4118.jpg",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              },
+             
+              {
+                "id":2,
+                "point_fort":"Place de parking",
+                "icon":"../../public/img/3d-fluency-blue-car.png"
+              }
+            ]
+        },
+        {
+            "id":7,
+            "name":"Hotel Boucan Canot",
+            "price":180,
+            "description":"Les pieds dans l’eau, l’Hôtel Restaurant Boucan Canot vous offre une vue panoramique sur l’une des plus belles plages de l’île de La Réunion. Union d’un site naturel préservé et d’une architecture typiquement créole",
+            "ville":"Saint-Paul",
+            "categorie":"Hotels",
+            "latitude":"-21.027173855853967", 
+            "longitude":"55.22654527204927",
+            "photos":"https://www.alibabuy.com/img_hotel/1/3/7/1_241931_1.jpg",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              },
+              {
+                "id":2,
+                "point_fort":"Spa",
+                "icon":"../../public/img/3d-fluency-pink-flower.png"
+              }, 
+              {
+                "id":3,
+                "point_fort":"Place de parking",
+                "icon":"../../public/img/3d-fluency-blue-car.png"
+              }
+            ]
+        },
+        {
+            "id":8,
+            "name":"Hôtel Bellepierre 4 *",
+            "price":300,
+            "description":"Profitez d’une vue panoramique depuis le quartier apaisant de Bellepierre (Saint-Denis), pour votre séjour de tourisme ou d’affaire à l’île de La Réunion.",
+            "ville":"Saint-Paul",
+            "categorie":"Hotels",
+            "latitude":"-20.895434078284946", 
+            "longitude":"55.447043891518476",
+            "photos":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/a9/4f/bb/hotel-bellepierre.jpg?w=1000&h=600&s=1",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              },
+              {
+                "id":2,
+                "point_fort":"Spa",
+                "icon":"../../public/img/3d-fluency-pink-flower.png"
+              }, 
+              {
+                "id":3,
+                "point_fort":"Place de parking",
+                "icon":"../../public/img/3d-fluency-blue-car.png"
+              }
+            ]
+        }, 
+        {
+            "id":9,
+            "name":"La Mafia du Gout",
+            "price":10,
+            "description":"Fast-Food",
+            "ville":"Saint-Denis",
+            "categorie":"Restaurants",
+            "latitude":"-20.89215347478209", 
+            "longitude":"55.483307281661546",
+            "photos":"https://lh5.googleusercontent.com/p/AF1QipNJ2ycW5lAxJlZDW8htViemSmKBjKn4AKSDYoLr=w408-h408-k-no",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              }
+         
+            ]
+        },
+        {
+            "id":10,
+            "name":"Le Bistrot de Saint Paul",
+            "price":29,
+            "description":"Bistrot",
+            "ville":"Saint-Paul",
+            "categorie":"Restaurants",
+            "latitude":"-21.00007774799616", 
+            "longitude":"55.28097384807355",
+            "photos":"https://lh5.googleusercontent.com/p/AF1QipOmngAsF-jVLDuHnfWnnMF8s1qKJw1efjz5ZGc=w507-h240-k-no",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              }
+         
+            ]
+        },
+        {
+            "id":11,
+            "name":"L'Atelier de Ben",
+            "price":30,
+            "description":"Repas de lux et repas à emporter",
+            "ville":"Saint-Paul",
+            "categorie":"Restaurants",
+            "latitude":"-20.878223800321326", 
+            "longitude":"55.44879213035563",
+            "photos":"https://lh5.googleusercontent.com/p/AF1QipNF__4J09VkiiSjBMbLzDsUkTaXNC02ruWmaY2G=w408-h272-k-no",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              }
+         
+            ]
+        },
+
+        {
+            "id":12,
+            "name":"Jardin de l'État",
+            "price":"",
+            "description":"Jardin public doté de palmiers, prisé pour son aire de jeux pour enfants et comprenant le muséum d'Histoire naturelle.",
+            "ville":"Saint-Denis",
+            "categorie":"Nature",
+            "latitude":"-20.886932254260667", 
+            "longitude":"55.45146740461906",
+            "photos":"https://ile-de-la-reunion.net/uploads/2020/05/jr2.jpg",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              },
+              {
+                "id":2,
+                "point_fort":"Place de parking",
+                "icon":"../../public/img/3d-fluency-blue-car.png"
+              }
+         
+            ]
+        },
+
+        {
+            "id":13,
+            "name":"Parc de la Trinité",
+            "price":"",
+            "description":"Jardin public ",
+            "ville":"Saint-Denis",
+            "categorie":"Nature",
+            "latitude":"-20.89590388743049", 
+            "longitude":"55.47149551619358",
+            "photos":"https://lh5.googleusercontent.com/p/AF1QipOfZ35O3UXgzRRxKBd-BLomLHfmsOsSofPjZd6e=w408-h306-k-no",
+            "avantage":[
+              {
+                "id":1,
+                "point_fort":"Restaurant",
+                "icon":"../../public/img/3d-fluency-spoon-and-knife.png"
+              },
+              {
+                "id":2,
+                "point_fort":"Place de parking",
+                "icon":"../../public/img/3d-fluency-blue-car.png"
+              }
+         
+            ]
+        }
+    ]    
+    
 }
