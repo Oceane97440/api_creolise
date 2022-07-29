@@ -447,7 +447,9 @@
           "price":"20",
           "description":"Brasserie",
           "ville":"Saint-Denis",
-          "categorie":"Restaurants",
+          "categorie":"Restaurants",      
+          "site":"https://www.facebook.com/Saint-Hubert-Brasserie-1438918036427326",
+          "num":"0262732742",
           "latitude": "-20.877662583983522",
           "longitude": "55.451286468272166",
           "photos":"https://passtime-media.s3.eu-west-3.amazonaws.com/SPs3comf4pP3vUxu6AhnCHNm",
@@ -586,6 +588,8 @@
             "categorie":"Restaurants",
             "latitude":"-20.89215347478209", 
             "longitude":"55.483307281661546",
+            "site":"https://www.facebook.com/LaMafiaDuGout",
+            "num":"0262521540",
             "photos":"https://lh5.googleusercontent.com/p/AF1QipNJ2ycW5lAxJlZDW8htViemSmKBjKn4AKSDYoLr=w408-h408-k-no",
             "avantage":[
               {
@@ -605,6 +609,8 @@
             "categorie":"Restaurants",
             "latitude":"-21.00007774799616", 
             "longitude":"55.28097384807355",
+            "site":"https://lebistrotdestpaul.fr/",
+            "num":"0692436412",
             "photos":"https://lh5.googleusercontent.com/p/AF1QipOmngAsF-jVLDuHnfWnnMF8s1qKJw1efjz5ZGc=w507-h240-k-no",
             "avantage":[
               {
@@ -624,6 +630,8 @@
             "categorie":"Restaurants",
             "latitude":"-20.878223800321326", 
             "longitude":"55.44879213035563",
+            "site":"http://www.latelierdeben.com/",
+            "num":"0262418573",
             "photos":"https://lh5.googleusercontent.com/p/AF1QipNF__4J09VkiiSjBMbLzDsUkTaXNC02ruWmaY2G=w408-h272-k-no",
             "avantage":[
               {
